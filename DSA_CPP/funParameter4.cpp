@@ -1,3 +1,4 @@
+// Calcualte sum of numbers from 1 to N.
 #include <iostream>
 using namespace std;
 
