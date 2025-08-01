@@ -29,7 +29,7 @@ int main()
     int result2 = sumArray(arr, sz);
 
     cout << "Product of array element =" << result1 << endl;
-    cout << "Product of array element =" << result2 << endl;
+    cout << "Sum of array element =" << result2 << endl;
 
     return 0;
 }
